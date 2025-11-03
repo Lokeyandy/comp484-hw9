@@ -1,9 +1,3 @@
-// COMP 484 JavaScript Coding Exercises
-// Filename suggestion: hw9-yourInitials.js
-
-// ------------------------------
-// Set 1: Advanced Syntax, Types, and Quirks
-// ------------------------------
 
 // Exercise 1: Complex Arithmetic and Standard Rules
 var finalResult = 3 + 5 * (10 / 2) - (8 - 4);
